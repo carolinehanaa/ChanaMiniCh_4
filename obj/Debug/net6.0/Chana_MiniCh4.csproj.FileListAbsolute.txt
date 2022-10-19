@@ -1,0 +1,60 @@
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.csproj.AssemblyReference.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.AssemblyInfoInputs.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.AssemblyInfo.cs
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.csproj.CoreCompileInputs.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\bin\Debug\net6.0\Chana_MiniCh4.exe
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\bin\Debug\net6.0\Chana_MiniCh4.deps.json
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\bin\Debug\net6.0\Chana_MiniCh4.runtimeconfig.json
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\bin\Debug\net6.0\Chana_MiniCh4.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\bin\Debug\net6.0\Chana_MiniCh4.pdb
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\refint\Chana_MiniCh4.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.pdb
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.genruntimeconfig.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\ref\Chana_MiniCh4.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\bin\Debug\net6.0\Chana_MiniCh4.exe
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\bin\Debug\net6.0\Chana_MiniCh4.deps.json
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\bin\Debug\net6.0\Chana_MiniCh4.runtimeconfig.json
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\bin\Debug\net6.0\Chana_MiniCh4.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\bin\Debug\net6.0\Chana_MiniCh4.pdb
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.csproj.AssemblyReference.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.AssemblyInfoInputs.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.AssemblyInfo.cs
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.csproj.CoreCompileInputs.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\refint\Chana_MiniCh4.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.pdb
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\Chana_MiniCh4.genruntimeconfig.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #4\Chana_MiniCh4\obj\Debug\net6.0\ref\Chana_MiniCh4.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\bin\Debug\net6.0\Chana_MiniCh4.exe
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\bin\Debug\net6.0\Chana_MiniCh4.deps.json
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\bin\Debug\net6.0\Chana_MiniCh4.runtimeconfig.json
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\bin\Debug\net6.0\Chana_MiniCh4.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\bin\Debug\net6.0\Chana_MiniCh4.pdb
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.csproj.AssemblyReference.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.AssemblyInfoInputs.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.AssemblyInfo.cs
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.csproj.CoreCompileInputs.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\obj\Debug\net6.0\refint\Chana_MiniCh4.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.pdb
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.genruntimeconfig.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_4\obj\Debug\net6.0\ref\Chana_MiniCh4.dll
+C:\Users\carol\Documents\ChanaMiniCh_4\bin\Debug\net6.0\Chana_MiniCh4.exe
+C:\Users\carol\Documents\ChanaMiniCh_4\bin\Debug\net6.0\Chana_MiniCh4.deps.json
+C:\Users\carol\Documents\ChanaMiniCh_4\bin\Debug\net6.0\Chana_MiniCh4.runtimeconfig.json
+C:\Users\carol\Documents\ChanaMiniCh_4\bin\Debug\net6.0\Chana_MiniCh4.dll
+C:\Users\carol\Documents\ChanaMiniCh_4\bin\Debug\net6.0\Chana_MiniCh4.pdb
+C:\Users\carol\Documents\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.csproj.AssemblyReference.cache
+C:\Users\carol\Documents\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\Documents\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.AssemblyInfoInputs.cache
+C:\Users\carol\Documents\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.AssemblyInfo.cs
+C:\Users\carol\Documents\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.csproj.CoreCompileInputs.cache
+C:\Users\carol\Documents\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.dll
+C:\Users\carol\Documents\ChanaMiniCh_4\obj\Debug\net6.0\refint\Chana_MiniCh4.dll
+C:\Users\carol\Documents\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.pdb
+C:\Users\carol\Documents\ChanaMiniCh_4\obj\Debug\net6.0\Chana_MiniCh4.genruntimeconfig.cache
+C:\Users\carol\Documents\ChanaMiniCh_4\obj\Debug\net6.0\ref\Chana_MiniCh4.dll
