@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carol\\Documents\\ChanaMiniCh_4\\Chana_MiniCh4.csproj",
+      "projectUniqueName": "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level 1 Assignments\\HanaC_GitHubChallenge\\HanaC_MiniCh4\\Chana_MiniCh4.csproj",
       "projectName": "Chana_MiniCh4",
-      "projectPath": "C:\\Users\\carol\\Documents\\ChanaMiniCh_4\\Chana_MiniCh4.csproj",
+      "projectPath": "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level 1 Assignments\\HanaC_GitHubChallenge\\HanaC_MiniCh4\\Chana_MiniCh4.csproj",
       "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carol\\Documents\\ChanaMiniCh_4\\obj\\",
+      "outputPath": "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level 1 Assignments\\HanaC_GitHubChallenge\\HanaC_MiniCh4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
