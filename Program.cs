@@ -1,4 +1,9 @@
-﻿
+﻿/*Caroline Hana
+10-19-2022
+Greater then less then
+input two numbers and the console will tell u if its greater, less or equal
+*/
+
 Console.Clear();
 
 string? playAgain = "yes";
